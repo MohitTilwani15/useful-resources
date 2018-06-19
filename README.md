@@ -15,6 +15,8 @@
 
 # Javascript
 
+-- https://www.rdegges.com/2018/please-stop-using-local-storage/
+
 # Angular
 
 # Relay

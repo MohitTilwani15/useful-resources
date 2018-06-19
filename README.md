@@ -6,6 +6,8 @@
 
 -- https://blog.vulcanjs.org/understanding-post-mutation-data-updates-in-apollo-43e90c37023b
 
+-- https://dev-blog.apollodata.com/graphql-at-facebook-by-dan-schafer-38d65ef075af
+
 
 # React
 

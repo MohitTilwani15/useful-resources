@@ -11,6 +11,8 @@
 
 # React
 
+-- https://serverless-stack.com/chapters/code-splitting-in-create-react-app.html
+
 # Vue
 
 # Javascript and Best practices

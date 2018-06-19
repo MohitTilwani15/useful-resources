@@ -31,4 +31,8 @@
 
 # JS libraries
 
+# CSS
+
+-- https://css-tricks.com/examples/ShapesOfCSS/
+
 

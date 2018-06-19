@@ -4,6 +4,8 @@
 
 -- https://www.howtographql.com/
 
+-- https://blog.vulcanjs.org/understanding-post-mutation-data-updates-in-apollo-43e90c37023b
+
 
 # React
 

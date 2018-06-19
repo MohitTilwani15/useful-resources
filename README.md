@@ -13,7 +13,7 @@
 
 # Vue
 
-# Javascript
+# Javascript and Best practices
 
 -- https://www.rdegges.com/2018/please-stop-using-local-storage/
 

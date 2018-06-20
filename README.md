@@ -8,6 +8,8 @@
 
 -- https://dev-blog.apollodata.com/graphql-at-facebook-by-dan-schafer-38d65ef075af
 
+-- https://scotch.io/tutorials/a-practical-graphql-getting-started-guide-with-nodejs
+
 
 # React
 

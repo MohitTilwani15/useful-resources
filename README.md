@@ -29,6 +29,8 @@
 
 -- https://hackernoon.com/getting-started-with-relay-modern-for-building-isomorphic-web-apps-ae049e4e23c1
 
+-- https://medium.com/entria/wrangling-the-client-store-with-the-relay-modern-updater-function-5c32149a71ac
+
 # Redux
 
 # MongoDB

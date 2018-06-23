@@ -10,6 +10,8 @@
 
 -- https://scotch.io/tutorials/a-practical-graphql-getting-started-guide-with-nodejs
 
+-- https://dev-blog.apollodata.com/explaining-graphql-connections-c48b7c3d6976
+
 
 # React
 

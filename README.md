@@ -19,6 +19,8 @@
 
 -- https://github.com/timarney/react-app-rewired (To customise configuration of create-react-app)
 
+-- https://github.com/mridgway/hoist-non-react-statics
+
 # Vue
 
 -- https://gist.github.com/Rebolon/ef5566303c9200228c1301243f37331e (A solution to use debugger in v-for for VueJS)

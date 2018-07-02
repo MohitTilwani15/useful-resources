@@ -14,8 +14,6 @@
 
 -- https://dev-blog.apollodata.com/@andrewingram
 
--- https://dev-blog.apollodata.com/explaining-graphql-connections-c48b7c3d6976
-
 
 # React
 

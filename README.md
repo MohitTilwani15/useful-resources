@@ -15,6 +15,11 @@
 -- https://dev-blog.apollodata.com/@andrewingram
 
 
+# DataLoader
+
+-- https://spin.atomicobject.com/2017/05/15/optimize-graphql-queries/
+
+
 # React
 
 -- https://serverless-stack.com/chapters/code-splitting-in-create-react-app.html
@@ -23,6 +28,8 @@
 
 -- https://github.com/mridgway/hoist-non-react-statics
 
+-- https://spin.atomicobject.com/2018/07/04/migrating-cra-typescript/
+
 # Vue
 
 -- https://gist.github.com/Rebolon/ef5566303c9200228c1301243f37331e (A solution to use debugger in v-for for VueJS)
@@ -30,6 +37,10 @@
 # Javascript and Best practices
 
 -- https://www.rdegges.com/2018/please-stop-using-local-storage/
+
+-- https://spin.atomicobject.com/2018/06/25/circular-dependencies-javascript/
+
+-- https://spin.atomicobject.com/2018/07/02/javascript-proxy-object/
 
 # Angular
 

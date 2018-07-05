@@ -14,6 +14,7 @@
 
 -- https://dev-blog.apollodata.com/@andrewingram
 
+-- https://www.robinwieruch.de/why-graphql-advantages-disadvantages-alternatives/
 
 # DataLoader
 

@@ -16,6 +16,8 @@
 
 -- https://www.robinwieruch.de/why-graphql-advantages-disadvantages-alternatives/
 
+-- https://medium.com/@ven_korolev/make-applications-faster-with-a-dataloader-library-from-facebook-dec67d15e415
+
 # DataLoader
 
 -- https://spin.atomicobject.com/2017/05/15/optimize-graphql-queries/

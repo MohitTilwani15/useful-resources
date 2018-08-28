@@ -41,7 +41,7 @@
 
 # Vue
 
--- https://gist.github.com/Rebolon/ef5566303c9200228c1301243f37331e (A solution to use debugger in v-for for VueJS)
+-- https://gist.github.com/MohitTilwani15/121cdc335fcc2403e83f01ce14cc9b69 (A solution to use debugger in v-for for VueJS)
 
 # Javascript and Best practices
 

@@ -77,4 +77,6 @@
 
 -- https://css-tricks.com/scale-svg/
 
+-- http://www.lottejackson.com/learning/an-equal-height-grid-using-flexbox
+
 

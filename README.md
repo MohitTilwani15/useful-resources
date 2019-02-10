@@ -81,4 +81,8 @@
 
 -- https://gist.github.com/prasofty/2b5f290e1d60f17b5acb . -- gist to create a mixin for margin and padding helpers
 
+# Other
+
+-- https://levelup.gitconnected.com/a-100daysofcode-timeboxed-front-end-development-curriculum-cb4b6c2081c2
+
 

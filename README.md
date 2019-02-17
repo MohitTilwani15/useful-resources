@@ -85,4 +85,6 @@
 
 -- https://levelup.gitconnected.com/a-100daysofcode-timeboxed-front-end-development-curriculum-cb4b6c2081c2
 
+-- https://kevgriffin.com/how-to-run-visual-studio-code-from-zsh-on-mac-osx/
+
 

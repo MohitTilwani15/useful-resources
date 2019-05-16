@@ -39,6 +39,8 @@
 
 -- https://spin.atomicobject.com/2018/07/04/migrating-cra-typescript/
 
+-- https://zhenyong.github.io/react/docs/
+
 # Vue
 
 -- https://gist.github.com/MohitTilwani15/121cdc335fcc2403e83f01ce14cc9b69 (A solution to use debugger in v-for for VueJS)

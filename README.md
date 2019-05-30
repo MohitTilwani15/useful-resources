@@ -41,6 +41,10 @@
 
 -- https://zhenyong.github.io/react/docs/
 
+# React Hooks
+
+-- https://www.smashingmagazine.com/2019/05/react-validation-library-basics-part1/
+
 # Vue
 
 -- https://gist.github.com/MohitTilwani15/121cdc335fcc2403e83f01ce14cc9b69 (A solution to use debugger in v-for for VueJS)

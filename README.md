@@ -16,6 +16,12 @@
 
 -- https://www.robinwieruch.de/why-graphql-advantages-disadvantages-alternatives/
 
+# RXJS
+
+-- https://github.com/btroncone/learn-rxjs
+
+-- https://gist.github.com/staltz/868e7e9bc2a7b8c1f754
+
 # DataLoader
 
 -- https://spin.atomicobject.com/2017/05/15/optimize-graphql-queries/
